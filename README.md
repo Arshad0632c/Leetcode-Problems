@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [3340-check-balanced-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Array
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [3925-concatenate-array-with-reverse](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
