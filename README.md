@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [3340-check-balanced-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [3794-reverse-string-prefix](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
