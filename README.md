@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 | Problem Name | Difficulty |
