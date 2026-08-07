@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2235-add-two-integers/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
