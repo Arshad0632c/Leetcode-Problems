@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -122,4 +123,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
