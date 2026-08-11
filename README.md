@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2235-add-two-integers/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+| [2525-categorize-box-according-to-criteria](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
