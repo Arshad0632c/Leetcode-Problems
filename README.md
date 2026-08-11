@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3340-check-balanced-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Array
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3731-find-missing-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Prefix Sum
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0169-majority-element) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
