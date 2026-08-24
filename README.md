@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2235-add-two-integers/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
