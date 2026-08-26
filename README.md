@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
