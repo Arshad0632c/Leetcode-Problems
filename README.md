@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0260-single-number-iii](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
