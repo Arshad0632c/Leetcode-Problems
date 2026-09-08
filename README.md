@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
