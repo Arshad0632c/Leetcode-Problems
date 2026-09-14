@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
