@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [1768-merge-strings-alternately](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
