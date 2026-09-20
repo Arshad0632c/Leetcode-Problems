@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
