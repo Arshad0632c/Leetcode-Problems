@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
