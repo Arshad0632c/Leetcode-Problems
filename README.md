@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Simulation
