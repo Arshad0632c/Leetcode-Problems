@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3110-score-of-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3110-score-of-a-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3340-check-balanced-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
