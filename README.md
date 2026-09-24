@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
