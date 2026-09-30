@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3945-digit-frequency-score/) | Easy |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
