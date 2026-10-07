@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
