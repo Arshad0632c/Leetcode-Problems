@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
+| [3894-traffic-signal-color](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
