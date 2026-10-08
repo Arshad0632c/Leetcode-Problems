@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->
