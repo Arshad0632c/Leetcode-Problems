@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
