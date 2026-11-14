@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Math
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
