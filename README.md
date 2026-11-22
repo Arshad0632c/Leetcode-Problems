@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3110-score-of-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3110-score-of-a-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/3340-check-balanced-string) |
