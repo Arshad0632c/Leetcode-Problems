@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Arshad0632c/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
