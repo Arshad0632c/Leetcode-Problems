@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Arshad0632c/Leetcode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
